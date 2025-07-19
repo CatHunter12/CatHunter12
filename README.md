@@ -9,8 +9,7 @@ I'm currently studying an Associate Degree in IT at RMIT, with the goal of progr
 <h2>💻 Projects</h2>
 
 ### 🧰 Beginner Projects
-- **Basic OS Setup**  
-  Created a virtual lab environment and documented the installation and initial configuration of Windows 11 and Ubuntu Desktop using VirtualBox.
+- [Windows & Linux Operating Systems Project] (https://github.com/CatHunter12/OperatingSystemLab)
 
 <!-- More beginner projects to be added soon -->
 
